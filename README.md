@@ -5,7 +5,7 @@
   Welcome to the repository for the Fish Master Game.
 
 
-  This game was develop by my suddenly desire to study Unity3D. In this project I worked with Scripts, Canvas and DoTween plugin which was helpful and very handy for     animation through scripts. 
+  This game was develop by my sudden desire to study Unity3D. In this project I worked with Scripts, Canvas and DoTween plugin which was helpful and very handy for     animation through scripts. 
 
 <h1> 
   Some Sreenshots
